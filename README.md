@@ -1,4 +1,4 @@
-[Topological Indices.ipynb](https://github.com/user-attachments/files/25189186/Tables.And.Graph.ipynb)
+[Topological Indices.ipynb]
 This script computes degree-based topological indices used in the associated research paper.
 [Entropy.ipynb](https://github.com/user-attachments/files/25189273/Entropy.ipynb)
 This script calculates topological entropy measures based on computed topological indices.
